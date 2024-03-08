@@ -1,1 +1,1 @@
-# game-mania
+# game-mania, Exercio SENAI/SP criar a interface de uma loja de games com angular 
