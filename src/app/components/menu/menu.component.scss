@@ -1,0 +1,21 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  img{
+    height: 70px;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  a:hover{
+    color: #4153b2;
+  }
+  mat-toolbar{
+    background: white;
+    border-bottom: 1px solid lightgray;
+  }
+  #logo{
+    margin-right: 20px;
+  }
